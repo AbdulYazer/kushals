@@ -90,14 +90,14 @@ flutter:
       fonts:
         - asset: assets/fonts/Lato-Regular.ttf
         - asset: assets/fonts/Lato-Bold.ttf
-        - asset: assets/fonts/Lato-Italic.ttf
+        - asset: assets/fonts/Lato-Medium.ttf
         - asset: assets/fonts/Lato-Semibold.ttf
           weight: 600
     - family: WorkSans
       fonts:
-        - asset: fonts/WorkSans-Bold.ttf
-        - asset: fonts/WorkSans-Medium.ttf
-        - asset: fonts/WorkSans-Regular.ttf
+        - asset: assets/fonts/WorkSans-Bold.ttf
+        - asset: assets/fonts/WorkSans-Medium.ttf
+        - asset: assets/fonts/WorkSans-Regular.ttf
     # - family: Poppins
     #   fonts:
     #     - asset: assets/fonts/Poppins-Regular.ttf
