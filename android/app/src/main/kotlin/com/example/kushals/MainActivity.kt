@@ -1,0 +1,6 @@
+package com.example.kushals
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
